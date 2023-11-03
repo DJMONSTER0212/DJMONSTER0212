@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Computer Science And Engineering(with Specialization in Data Science and Artificial Intelligence)<br>👯 I’m looking to collaborate on any Front-End Web Development Project.<br>🌱 I’m currently learning Full Stack Web Development.<br>💻 Programming Languages which I have worked on are C, C++, Python, HTML, JavaScript.<br>⚡ Fun fact about me is that I like Games and Anime.
+🔭 I’m currently studying Computer Science And Engineering(with Specialization in Data Science and Artificial Intelligence)<br>👯 I’m looking to collaborate on any Web Development Project.<br>🌱 I’m A Full Stack Web Development.<br>💻 Programming Languages which I have worked on are C, C++, Python, HTML, JavaScript.<br>⚡ Fun fact about me is that I like Games and Anime.
 
 
 ## 🌐 Socials:
